@@ -2,7 +2,7 @@
 
 Standard implemenation of [Ramer–Douglas–Peucker algorithm](https://en.wikipedia.org/wiki/Ramer–Douglas–Peucker_algorithm) in Swift.
 
-# Usage
+## Usage
 
 ```swift
 import SwiftRDP
